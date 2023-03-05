@@ -1,0 +1,114 @@
+    
+
+body {
+  
+    
+    background-image: url(https://st2.depositphotos.com/9314468/41970/v/450/depositphotos_419702412-stock-illustration-lingerie-seamless-pattern-flat-line.jpg);
+
+}
+
+.capa {
+    max-width: 100%;
+    background-color: rgba(0, 0, 0, 0.359);
+    padding: 10%;
+    padding-top:50%;
+    padding-bottom: 100%;
+
+
+}
+
+legend  h1 {
+    margin-left: 40px;
+    font-size: 2em;
+    font-family: cursive;
+    color:white;
+
+
+    
+}
+
+
+h4 {
+    margin-left: 1.5em;
+    font-size: 23px;
+    font-family: monospace;
+   color:rgb(216, 216, 216);
+    padding-bottom:33px;
+    -webkit-text-stroke: .1px rgb(0, 0, 0);
+
+
+
+}
+
+
+
+form {
+  
+    background-color: rgba(138, 138, 138, 0.513);
+    max-width: 300px;
+    text-align: center;
+    margin: auto;
+    outline: 3px solid purple;
+    margin-top: -40%;
+    border-radius: 20px;
+    height: 630px;
+
+    
+
+    
+}
+
+
+input {
+    padding: 2%;
+    border-radius: 20px;
+    outline: none;
+    border:none;
+
+
+}
+
+
+input::placeholder {
+    text-align: center;
+    font-size: 100%;
+}
+
+
+#enviar{
+    background-color: rgba(128, 0, 128, 0.021);
+    outline: 1px solid white;
+    border-radius: 20px;
+    color:white;
+    padding: 3%;
+    border:none;
+}
+
+a {
+
+    
+    outline: 1px solid white;
+    border-radius: 20px;
+    color:white;
+    padding: 3%;
+    text-decoration: none;
+
+}
+
+
+
+#enviar:hover {
+
+
+background-color: purple;
+}
+
+a:hover {
+    background-color: purple;
+}
+
+
+h6 {
+    color:white;
+    font-size: .8em;
+}
